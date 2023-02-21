@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "442921190139",
+    "project_id": "authapp-cbc60",
+    "storage_bucket": "authapp-cbc60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442921190139:android:27e7266c9fe924711c665e",
+        "android_client_info": {
+          "package_name": "com.example.authapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442921190139-je73udugajkivvp5cdl9421ghul5fsk9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiV1E54Qx5uIglRHMaWVDKbLyqXVQ8QVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442921190139-je73udugajkivvp5cdl9421ghul5fsk9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
